@@ -1,0 +1,6 @@
+F:\RiderProjects\MyString\MyString\bin\Debug\MyString.exe
+F:\RiderProjects\MyString\MyString\bin\Debug\MyString.pdb
+F:\RiderProjects\MyString\MyString\obj\Debug\MyString.csprojAssemblyReference.cache
+F:\RiderProjects\MyString\MyString\obj\Debug\MyString.csproj.CoreCompileInputs.cache
+F:\RiderProjects\MyString\MyString\obj\Debug\MyString.exe
+F:\RiderProjects\MyString\MyString\obj\Debug\MyString.pdb
